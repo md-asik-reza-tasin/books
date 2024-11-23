@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg",
+    "review": "The Silent Patient is an intense psychological thriller that revolves around the story of Alicia Berenson, a renowned painter who shoots her husband and then falls completely silent. She doesn't speak a word for years, not even during her trial. Enter Theo Faber, a forensic psychotherapist determined to uncover the truth behind Alicia's silence. What follows is a twisted narrative with unexpected turns, leading to a shocking conclusion that will leave readers questioning everything they thought they knew. The book’s pacing, complex characters, and suspenseful plot make it a captivating read from start to finish.",
+    "totalPages": 336,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Suspense", "Psychological", "Thriller"],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 2,
+    "bookName": "Educated",
+    "author": "Tara Westover",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593388297i/53450790.jpg",
+    "review": "Educated is a memoir that tells the extraordinary story of Tara Westover, who grows up in a strict and abusive household in rural Idaho but goes on to earn a PhD from Cambridge University. Her journey is not just about physical escape from her family's control, but also an intellectual and emotional journey towards self-discovery. The narrative is raw, gripping, and filled with moments that are both inspiring and heartbreaking. Tara’s story of resilience, the power of education, and the courage to change one's path is a reminder of the importance of self-determination and the struggle to find one's identity amidst familial expectations.",
+    "totalPages": 334,
+    "rating": 4.5,
+    "category": "Memoir",
+    "tags": ["Non-fiction", "Inspiration", "Biography"],
+    "publisher": "Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 3,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458854462i/29437949.jpg",
+    "review": "Atomic Habits is a deeply insightful and well-researched book that provides readers with a framework for improving their habits and daily routines. James Clear explains the science behind why habits form and offers practical strategies to make small changes that lead to significant improvements over time. His method emphasizes the power of tiny adjustments, focusing on becoming just 1% better every day. The book is filled with engaging examples, real-life stories, and actionable steps that make it easy for readers to understand and implement. It’s a must-read for anyone looking to create positive change and achieve long-term success.",
+    "totalPages": 320,
+    "rating": 4.8,
+    "category": "Self-help",
+    "tags": ["Self-improvement", "Productivity", "Psychology"],
+    "publisher": "Avery",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Midnight Library",
+    "author": "Matt Haig",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618150545i/55710822.jpg",
+    "review": "The Midnight Library is a poignant and thought-provoking novel that explores the concept of regret, choice, and the different paths one could have taken in life. The protagonist, Nora Seed, finds herself in a mystical library between life and death, where each book represents a version of her life if she had made different decisions. As Nora revisits the lives she could have lived, she learns profound lessons about what truly matters. Matt Haig’s writing is warm, compassionate, and reflective, making this book a comforting and reflective read for anyone who has ever wondered 'what if.'",
+    "totalPages": 304,
+    "rating": 4.2,
+    "category": "Fantasy",
+    "tags": ["Fiction", "Fantasy", "Life Choices"],
+    "publisher": "Canongate Books",
+    "yearOfPublishing": 2020
+  },
+  {
+    "bookId": 5,
+    "bookName": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706031812i/203840597.jpg",
+    "review": "In 'Becoming,' Michelle Obama takes readers on an intimate and compelling journey through the experiences that shaped her—from her childhood in the South Side of Chicago to her years as First Lady of the United States. The memoir is both deeply personal and candid, filled with stories about her challenges, triumphs, and the lessons she learned along the way. Michelle’s voice is sincere and engaging, making readers feel as though they are conversing with a close friend. The book is a testament to her strength, resilience, and the belief that everyone has a story worth telling.",
+    "totalPages": 448,
+    "rating": 4.7,
+    "category": "Biography",
+    "tags": ["Biography", "Inspiration", "Non-fiction"],
+    "publisher": "Crown Publishing Group",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 6,
+    "bookName": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707845168i/208457093.jpg",
+    "review": "Where the Crawdads Sing is a beautifully crafted novel that weaves together themes of isolation, survival, and the natural world. The story follows Kya Clark, known as the 'Marsh Girl,' who grows up alone in the wild marshes of North Carolina after being abandoned by her family. As Kya matures, she becomes a skilled naturalist, and her life intertwines with the local community when a mysterious death occurs. Delia Owens' writing is lyrical and poetic, bringing the marshes and wildlife to life while exploring Kya’s complex emotions and struggles. It’s a powerful and unforgettable story about human connection and resilience.",
+    "totalPages": 368,
+    "rating": 4.6,
+    "category": "Mystery",
+    "tags": ["Fiction", "Mystery", "Drama"],
+    "publisher": "G.P. Putnam's Sons",
+    "yearOfPublishing": 2018
+  }
+]
